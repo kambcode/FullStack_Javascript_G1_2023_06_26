@@ -230,4 +230,4 @@ Para camputar información en los formularios HTML nos provee un elemento en par
 | `<input type="file">` | (Escoger un archivo para enviar)| Selección de archivo|
 
 # Grabación de la clase
-https://www.youtube.com/watch?v=1XEmiPMQ1sU
+https://www.youtube.com/watch?v=_7G75CkCmbQ
