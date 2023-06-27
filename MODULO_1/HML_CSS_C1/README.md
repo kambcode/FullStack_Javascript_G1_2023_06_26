@@ -228,3 +228,6 @@ Para camputar información en los formularios HTML nos provee un elemento en par
 | `<datalist>` | (Elegir una opción o indicar una propia)| Opción única abierta|
 | `<input type="color">` | (Escoger un color o tonalidad)| Selección de color|
 | `<input type="file">` | (Escoger un archivo para enviar)| Selección de archivo|
+
+# Grabación de la clase
+https://www.youtube.com/watch?v=1XEmiPMQ1sU
