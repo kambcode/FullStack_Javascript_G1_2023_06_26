@@ -8,3 +8,8 @@
 A continuación encuentrás un ejemplo:
 
 ![Ejemplo_hoja:de_vida](./../resources/cv_example.jpg)
+
+Trabajar en parejas 
+ - Juliana y Roberto
+ - David y Andrés
+ - Daniel Romero y Daniel Cañon
