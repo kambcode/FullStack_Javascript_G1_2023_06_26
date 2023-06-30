@@ -14,3 +14,7 @@ Antes de empezar puedes configurar tu setup inicial de forma muy sencilla para p
 Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambios de la clase debes hacer un `pull` del repositorio remoto siguiendo estos sencillos pasos
 
 ![image](https://github.com/KamiloMontoya/kambcode_g1/assets/11945476/8d8f7da6-aa4c-4d67-9dec-59cd360bda0f)
+
+## Grabaciones de Clases
+ - 26/06/2023 - Fundamentos de HTML https://www.youtube.com/watch?v=_7G75CkCmbQ
+ - 28/06/2023 - Funcamentos de HTM y CSS https://www.youtube.com/watch?v=37EHdIvPx18
