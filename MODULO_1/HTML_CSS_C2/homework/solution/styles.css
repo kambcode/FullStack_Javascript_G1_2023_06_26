@@ -1,0 +1,31 @@
+.picture {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.font-white {
+    color: white;
+}
+
+.title {
+    color: #767b81 ;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+.profile-container {
+    width: 400px;
+    margin-right: 50px;
+}
+
+.skils-container {
+    width: 1000px;
+}
+
+.background-city {
+    background-position: center;
+    background-image: url("https://media.istockphoto.com/id/1356118511/photo/smart-city-and-abstract-dot-point-connect-with-gradient-line.jpg?s=612x612&w=0&k=20&c=GJldTyxDEt0GodKxGONHz9PrN9QcQQAGKONUM0vBvYc=");
+}
