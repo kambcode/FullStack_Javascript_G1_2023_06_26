@@ -18,4 +18,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 ## Grabaciones de Clases
  - 26/06/2023 - Fundamentos de HTML https://www.youtube.com/watch?v=_7G75CkCmbQ
  - 28/06/2023 - Fundamentos de HTM y CSS https://www.youtube.com/watch?v=37EHdIvPx18
- - 30/06/2023 - Tutoría (HTML y CSS)
+ - 30/06/2023 - Tutoría (HTML y CSS) https://www.youtube.com/watch?v=xgHyUlB38DU
