@@ -1,0 +1,61 @@
+/* Selector por etiqueta */
+h1 {
+    font-size: 36px;
+    color: gray;
+    text-decoration: underline;
+}
+
+/* Selector global */
+* {
+    font-family: sans-serif;
+}
+
+/* selectores por clase */
+.text-red {
+    color: red;
+}
+
+.font-24 {
+    font-size: 24px;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+/* Union, solo los elementos (DIV) con la clase square y la clase red 
+van a tener estos atributos */
+div.square.red {
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    margin: 40px 20px 20px 20px;
+    /* margin-left: 100px;
+    margin-top: 40px;
+    margin-right: 20px;
+    margin-bottom: 20px; */
+}
+
+/* Jerarquia, selecciona todos los <p> que esten contenidos en la 
+clase square */
+.square p {
+   color: white 
+}
+
+/* pseudo selectores */
+.button-blue {
+    background-color: blue;
+    font-size: 16px;
+    color: white;
+}
+.button-blue:hover {
+    background-color: aqua;
+    color: black
+}
+
+div.square.red:hover p {
+    color: black;
+    text-decoration: underline;
+}
+
+
