@@ -10,8 +10,6 @@ En la generación de estilos hay infinitas maneras de llegar a un mismo resultad
    - ![tarea1](./../resources/Tarea1.png)
 2. Dada la siguiente imagen y el html segundaTarea.html, haciendo uso del box model y selectors llega a una solución lo más parecida posible a la imagen presentada
    - ![tarea2](./../resources/Tarea2.png)
-3. Haciendo uso del HTML de terceraTarea.html y los conocimientos en position relative y absolute llega aplica los estilos necesarios para replicar lo máximo posible la siguiente distribución
-   - ![tarea3](./../resources/Tarea3.png)
-4. Dada la siguiente imagen, haciendo uso de Box Model intenta replicarla con base en la estructura HTML dada en el archivo cuartaTarea.html
+4. Dada la siguiente imagen, haciendo uso de Box Model intenta replicarla con base en la estructura HTML dada en el archivo tercerTarea.html
    - ![tarea4](./../resources/Tarea4.png)
 
