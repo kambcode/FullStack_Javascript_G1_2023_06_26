@@ -17,5 +17,6 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 
 ## Grabaciones de Clases
  - 26/06/2023 - Fundamentos de HTML https://www.youtube.com/watch?v=_7G75CkCmbQ
- - 28/06/2023 - Fundamentos de HTM y CSS https://www.youtube.com/watch?v=37EHdIvPx18
+ - 28/06/2023 - Fundamentos de CSS https://www.youtube.com/watch?v=37EHdIvPx18
  - 30/06/2023 - Tutoría (HTML y CSS) https://www.youtube.com/watch?v=xgHyUlB38DU
+ - 04/07/2023 - Selectores CSS y Box model https://www.youtube.com/watch?v=H12o-oN890k
