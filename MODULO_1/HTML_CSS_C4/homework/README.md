@@ -18,5 +18,10 @@ Aplica los estilos dados según las condiciones especificadas de manera de llega
 
    - ![tarea3](./../resources/homework3.png)
 
-4. Utilizando media queries y flexbox genera un menu que cuando se vea como el siguiente: [mediaqueries_homework.webm](./../resources/mediaqueries_homework.webm) Recuerda usar el paton de diseño `mobile first` (Primero genera el comportamiento para mobile y depues si ajustalo para pantallas mas grandes). Además utiliza 720px como breakpoint
+4. Utilizando media queries y flexbox genera un menu que cuando se vea como el siguiente:
+   [mediaqueries_homework.webm](./../resources/mediaqueries_homework.webm)
+   
+[mediaqueries_homework.webm](https://github.com/kambcode/FullStack_Javascript_G1_2023_06_26/assets/137812574/ec4e36d3-d37a-4cda-bad7-f868d595f106)
 
+
+   Recuerda usar el paton de diseño `mobile first` (Primero genera el comportamiento para mobile y depues si ajustalo para pantallas mas grandes). Además utiliza 720px como breakpoint
