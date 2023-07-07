@@ -132,7 +132,9 @@ Miremos ahora las propiedades que pueden tomar los hijos o los flex-ítems. Cabe
           }
     ```
 
-Hasta aquí va el contenido de Flex-Box, como vemos es una herramienta que utilizada con conceptos ya vistos como `position` podemos personalizar en gran medida las distribuciones de nuestras apps. Miremos otra posibilidad para establecer el layout de nuestras apps.
+Hasta aquí va el contenido de Flex-Box, como vemos es una herramienta que utilizada con conceptos ya vistos como `position` podemos personalizar en gran medida las distribuciones de nuestras apps. Puedes ampliar tus conocimientos en la siguiente guia de flex:
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
 
 ## Media Queries
 
