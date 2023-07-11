@@ -4,22 +4,9 @@ Las tareas de los módulos son pensadas para profundizar en los temas expuestos 
 
 ## Tareas
 
-Aplica los estilos dados según las condiciones especificadas de manera de llegar a la imagen ejemplo, recuerda que en cuanto a estilos hay infinitas maneras de llegar a la misma solución:
+Utilizando unicamente flex, replica la pagina de registro de kambcode https://www.kambcodelatam.com/register
 
-1. Dado el HTML de la primera tarea aplica los estilos css grid para convertirlo en la siguiente imagen. - ![Tarea1](./../resources/Tarea1.png)
+Las imagenes que vas a necesitar están disponibles en los siguinetes enlaces
 
-2. Dado el HTML segundaTarea.html haciendo uso de las herramientas aprendidas de CSS grid, llega a la siguiente imagen
-
-   - ![Tarea2](./../resources/Tarea2.png)
-
-3. Tarea final de Grid, utilizando CSS grid desarrolla la siguiente layout
-
-   - ![Tarea3](./../resources/Tarea3.png)
-
-4. Utilizando media queries y flexbox genera un menu que cuando se vea como el siguiente:
-   [mediaqueries_homework.webm](./../resources/mediaqueries_homework.webm)
-   
-[mediaqueries_homework.webm](https://github.com/kambcode/FullStack_Javascript_G1_2023_06_26/assets/137812574/ec4e36d3-d37a-4cda-bad7-f868d595f106)
-
-
-   Recuerda usar el paton de diseño `mobile first` (Primero genera el comportamiento para mobile y depues si ajustalo para pantallas mas grandes). Además utiliza 720px como breakpoint
+- https://www.kambcodelatam.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsimple-logo.7ffa827c.png&w=384&q=75
+- https://www.kambcodelatam.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fc1phkeakdkp0%2F2tppGEChqtxp6Dxy2TZpjI%2F46f06edfbc64a6bcbbbf032c093effc9%2Fimagen_web-01.webp&w=1920&q=75

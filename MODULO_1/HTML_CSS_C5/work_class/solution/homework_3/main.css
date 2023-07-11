@@ -1,0 +1,53 @@
+body {
+    background-color: bisque;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* height: 500px; */
+    height: 100vh;
+}
+input {
+    font-size: 36px;
+    padding: 10px;
+    border: 3px solid gray;
+    border-radius: 10px;
+}
+
+textarea {
+    font-size: 36px;
+    padding: 10px;
+    border: 3px solid gray;
+    border-radius: 0px;
+}
+
+.form {
+    display: flex;
+    flex-direction: row;  
+    justify-content: space-around;  
+    border: 4px dashed red;
+}
+
+.form-content {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.label {
+    font-size: 34px;
+    font-weight: bold;
+}
+
+button {
+    font-size: 40px;
+    padding: 10px 60px 10px 60px;
+    background-color: rgb(76, 112, 212);
+    color: white;
+    border-radius: 10px;
+    border: 2px solid blue 
+}
+
+button:hover {
+    background-color: rgb(59, 87, 116);
+}
+

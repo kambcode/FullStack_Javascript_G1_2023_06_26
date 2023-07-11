@@ -1,0 +1,18 @@
+.new {
+    background-image: 
+        url("./resources/city.jpg");
+    width: 600px;
+    height: 400px;
+    color: white;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    /* Alinea en el sentido de la direccion */
+    justify-content: end;
+    /* align-items: center; */  
+}
+
+.new .content {
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.6);
+}

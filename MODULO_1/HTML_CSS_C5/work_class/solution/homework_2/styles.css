@@ -1,0 +1,54 @@
+.header {
+    background-color: greenyellow;
+    height: 50px;
+    padding: 20px;
+    border: 4px solid blue;
+}
+
+.header .menu {
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+}
+
+.article {
+    border: 1px solid black;
+    height: 300px;
+    width: 66.66%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.aside {
+    border: 1px solid black;
+    height: 300px;
+    width: calc(33.33% / 2);
+    background-color: bisque;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.nav {
+    border: 1px solid black;
+    height: 300px;
+    width: calc(33.33% / 2);
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.footer {
+    background-color: darkgoldenrod;
+    height: 50px;
+    padding: 10px;
+}
