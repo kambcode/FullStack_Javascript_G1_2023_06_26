@@ -16,7 +16,7 @@ Aplica los estilos dados según las condiciones especificadas de manera de llega
 
    - ![Tarea3](./../resources/Tarea3.png)
 
-4. Utilizando media queries y flexbox genera un menu que cuando se vea como el siguiente:
+4. Utilizando media queries y flexbox genera un menu responsive que se vea como el siguiente:
    [mediaqueries_homework.webm](./../resources/mediaqueries_homework.webm)
    
 [mediaqueries_homework.webm](https://github.com/kambcode/FullStack_Javascript_G1_2023_06_26/assets/137812574/ec4e36d3-d37a-4cda-bad7-f868d595f106)
