@@ -1,0 +1,41 @@
+body {
+    margin: 0px;
+}
+
+.grid-container {
+    /* 1vh porcentaje del alto de la pantalla */
+    /* 1vw porcentaje del ancho de la pantalla  */
+    /* height: 100vh;   */
+    /* Usando grid */
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    grid-template-rows: 200px 1fr 100px;
+
+    /* usando flex */
+    /* display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; */
+}
+.box {
+    background-color: blue;
+    font-size: 36px;
+    padding: 20px;
+    /* border: 2px solid black; */
+    color: white;
+    overflow: scroll;
+
+    /* usando flex */
+    /* width: 46%; */
+}
+
+.box-column-2 {
+    background-color: gray;
+    /* grid-column: 2 / 4; */
+    grid-column: 2 / span 2;
+}
+
+.box-footer {
+    background-color: yellow;
+    color: black;
+    grid-column: 1 / 4;
+}

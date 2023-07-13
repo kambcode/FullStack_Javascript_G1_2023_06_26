@@ -1,0 +1,39 @@
+body {
+    margin: 0px;
+    /* min-height: 100vh; 100vw */
+    min-height: 100vh;
+    display: grid;
+    grid-template-areas: 
+        ". myHeaderArea myHeaderArea mySideArea ."
+        ". myContent content2 mySideArea ."
+    ;
+    grid-template-columns: 80px 1fr 1fr 1fr 80px;
+    grid-template-rows: 100px 1fr;
+
+    /* 
+        grid-template-areas: 
+            "myHeaderArea myHeaderArea mySideArea"
+            "myContent content2 mySideArea"
+            "myContent content2 mySideArea"
+        ;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: 100px 1fr 1fr; 
+    */
+}
+
+.container-a {
+    background-color: aquamarine;
+    grid-area: myHeaderArea;
+}
+.container-b {
+    background-color: yellow;
+    grid-area: mySideArea;
+}
+.container-c {
+    background-color: greenyellow;
+    grid-area: myContent;
+}
+.container-d {
+    background-color: bisque;
+    grid-area: content2;
+}
