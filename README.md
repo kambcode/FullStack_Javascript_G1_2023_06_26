@@ -22,3 +22,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
  - 04/07/2023 - Selectores CSS y Box model https://www.youtube.com/watch?v=H12o-oN890k
  - 06/07/2023 - Position Absolute y FlexBox https://www.youtube.com/watch?v=f4CrQ0EY02I 
  - 10/07/2023 - Repaso Flex y ejercicios prácticos https://www.youtube.com/watch?v=NqihX3e58Vs
+ - 12/07/2023 - Grid View / Areas https://www.youtube.com/watch?v=jb8NqDY9TVo
