@@ -1,6 +1,6 @@
 # Proyecto final HTML y CSS
 
-El protafolio de un desarrollador es un instrumento que permite mostrar tu experiencia, las habilidades que tienes, así como tus conocimientos de una forma gráfica, directa. Además, te ayudará a destacar en el mercado laboral y también te permitirá reforzar los conocimientos adquiridos mediante la realización de proyectos.
+El portafolio de un desarrollador es un instrumento que permite mostrar tu experiencia, las habilidades que tienes, así como tus conocimientos de una forma gráfica, directa. Además, te ayudará a destacar en el mercado laboral y también te permitirá reforzar los conocimientos adquiridos mediante la realización de proyectos.
 
 Es por ésta razón que como proyecto final del módulo de HTML y CSS vas a crear tu portafolio.
 
