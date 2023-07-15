@@ -353,6 +353,12 @@ Este ejemplo anterior nos ilustra la utilización de los operadores lógicos que
 
 Cerremos el tema hablando entonces el tan cotizado `mobile first design`, la pauta clara para aplicarlo de manera correcta mediante el uso de media queries sería entonces diseñando nuestra aplicación primero para moviles, entonces esto implica que nuestros media queries deberían de ser dirigidos a que hacer cuando la pantalla supera las condiciones o caracteristicas de un dispositivo movil, entonces, los media queries deberían utilizar mas frecuentemente el modificar `min` tanto para `min-width` como para `min-heigth` de manera que nuestros estilos por defecto sean los pensados para pantallas pequeñas.
 
+Puedes ampliar tus conocimientos de media queries te recomendamos esta guia:
+https://css-tricks.com/a-complete-guide-to-css-media-queries/
+
+Y además en el siguiente enlace puedes ver las media queries usadas para los dispositivos mobiles y desktop mas usados
+https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
+
 ## Responsive behavior
 
 Es importante resaltar que, en algunos casos, los media Queries no son necesarias para crear un comportamiento responsive. Un enfoque común es crear un diseño de cuadrícula flexible utilizando porcentajes para representar el tamaño de las columnas. Estos porcentajes se pueden calcular fácilmente con la siguiente fórmula:

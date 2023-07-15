@@ -1,0 +1,50 @@
+body {
+    min-height: 100vh;
+    margin: 0;
+    display: grid;
+    grid-template-areas: 
+        "header header"
+        "side container"
+        "footer footer";
+    grid-template-columns: 300px 1fr;
+    grid-template-rows: 100px 1fr 100px;
+}
+
+/* En pantallas de celulares min 0px
+maximo 768px debo ver el contenido 
+abajo del side */
+
+@media screen and (max-width: 768px) {
+    body {
+        grid-template-areas: 
+            "header"
+            "side"
+            "container"
+            "footer";
+        grid-template-columns: 1fr;
+        grid-template-rows: 100px 1fr 1fr 100px;
+    }
+}
+
+/*
+header
+side
+content
+footer
+*/
+.header {
+    grid-area: header;
+    background-color: aquamarine;
+}
+.content {
+    grid-area: container;
+    background-color: brown;
+}
+.side {
+    grid-area: side;
+    background-color: blue;
+}
+.footer {
+    grid-area: footer;
+    background-color: blueviolet;
+}

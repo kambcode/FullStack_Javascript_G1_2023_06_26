@@ -12,6 +12,7 @@ En el siguiente enlace de figma ( [enlace al diseño propuesto del portafolio](h
    2. Debe ser responsive, en el diseño de figma encontrarás el diseño en version de escritorio y celulares (tu desarollo debe verse exactamente igual al diseño), para tamaños de pantalla intermedios como tabletas deberás utilizar tu imaginación.
    3. Utilizar `gridview` para definir el layout de tu página y `flexbox` para crear el contenido dentro de cada sección o área del layout.
    4. Limita al máximo el uso de `media queries`, piensa en contenedores hechos con `flexbox` que se ajusten autmáticamente o en rejillas con `gridview`.
+   5. el diseño mobile solo aplica para pantallas con un ancho menor a 768px (max-width: 768px)
 
 ## Recursos necesarios para el desarollo
 

@@ -1,0 +1,52 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.square {
+    /* Estos estilos son por defecto 
+    y aplican para celulares */
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    background-color: red;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.show-desktop {
+    display: none;
+}
+
+.square p {
+   font-size: 20px;
+   font-weight: 900;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+    /* Estos estilos aplican para Tablet */
+    .square {
+        background-color: yellow;
+        color: black;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    /* Estos estilos aplican para PC */
+    .square {
+        width: 700px;
+        height: 600px;
+        background-color: green;
+        flex-direction: row;
+    }
+
+    .show-desktop {
+        display: block;
+    }
+}
