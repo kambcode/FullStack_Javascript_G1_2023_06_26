@@ -1,7 +1,7 @@
 body {
     min-height: 100vh;
     display: grid;
-    font-family: Heebo;
+    font-family: 'Heebo';
 
     grid-template-columns: 177px 1fr 177px;
     grid-template-rows: 50px 1fr 50px 1fr 50px 1fr;
