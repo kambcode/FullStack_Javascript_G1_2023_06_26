@@ -1,0 +1,81 @@
+body {
+    min-height: 100vh;
+    display: grid;
+    font-family: Heebo;
+
+    grid-template-columns: 177px 1fr 177px;
+    grid-template-rows: 50px 1fr 50px 1fr 50px 1fr;
+    grid-template-areas:
+    "header header header"
+    "profile profile profile"
+    ". skills ."
+    "blueAreaLeft skills blueAreaRight"
+    ". skills ."
+    "footer footer footer";
+}
+
+header {
+    grid-area: header;
+}
+.profile {
+    grid-area: profile;
+    font-size: 44px;
+    font-weight: 700;
+    line-height: 60px; 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+/* en dispositivos mobiles el tamaño de fuente sean 24px */
+@media screen and (max-width: 768px) {
+    .profile {
+        font-size: 24px;
+    }
+}
+
+/* Media query para tablets */
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+    .profile {
+        color: blue;
+    }
+}
+
+
+.text-red {
+    color: #E01E5A;
+}
+.skills {
+    grid-area: skills;
+    background-color: #0A5B74;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.vertical-line {
+    width: 0px;
+    height: 90%;
+    background-color: yellow;
+    border: 1px solid white;
+}
+
+@media screen and (max-width: 768px) {
+    .vertical-line {
+        display: none;
+    }
+    
+}
+
+.blue-background-left {
+    grid-area: blueAreaLeft;
+    background-color: #A3CEDB;
+}
+.blue-background-right {
+    grid-area: blueAreaRight;
+    background-color: #A3CEDB;
+}
+footer {
+    grid-area: footer;
+}
