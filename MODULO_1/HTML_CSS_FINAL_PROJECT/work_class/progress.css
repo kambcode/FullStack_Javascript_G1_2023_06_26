@@ -1,0 +1,20 @@
+.progress-bar {
+    width: 300px;
+    height: 50px;
+    border: 3px solid black;
+    background-color: grey;
+}
+
+.progress {
+    width:80%;
+    height: 50px;
+    background-color: green;
+    color: white;
+    font-size: 16px;
+
+    /* Estilos para centrar el texto */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
