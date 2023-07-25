@@ -25,3 +25,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
  - 12/07/2023 - Grid View / Areas https://www.youtube.com/watch?v=jb8NqDY9TVo
  - 14/07/2023 - Media queries https://youtu.be/s5FQeoVufak
  - 17/07/2023 - Dudas proyecto final https://www.youtube.com/watch?v=hbmMTqC1RSk
+ - 24/07/2023 - Introduccion a Git https://youtu.be/citqtzY6yS0
