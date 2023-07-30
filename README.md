@@ -26,3 +26,5 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
  - 14/07/2023 - Media queries https://youtu.be/s5FQeoVufak
  - 17/07/2023 - Dudas proyecto final https://www.youtube.com/watch?v=hbmMTqC1RSk
  - 24/07/2023 - Introduccion a Git https://youtu.be/citqtzY6yS0
+ - 26/07/2023 - Git Bases https://youtu.be/kAnisKdMlnE
+ - 28/07/2023 - Introduccion JS https://youtu.be/Ax5UGkKxXL8 
