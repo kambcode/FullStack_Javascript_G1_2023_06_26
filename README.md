@@ -28,4 +28,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
  - 24/07/2023 - Introduccion a Git https://youtu.be/citqtzY6yS0
  - 26/07/2023 - Git Bases https://youtu.be/kAnisKdMlnE
  - 28/07/2023 - Introduccion JS https://youtu.be/Ax5UGkKxXL8
- - 31/07/2023 - Bases JS https://youtu.be/DLmFacmKtUw
+ - 31/07/2023 - Bases JS https://youtu.be/N_75SwnR01E
