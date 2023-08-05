@@ -29,3 +29,5 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
  - 26/07/2023 - Git Bases https://youtu.be/kAnisKdMlnE
  - 28/07/2023 - Introduccion JS https://youtu.be/Ax5UGkKxXL8
  - 31/07/2023 - Bases JS https://youtu.be/N_75SwnR01E
+ - 2/08/2023 - Arrays JS https://youtu.be/OI5DC4MV3Mk
+ - 4/08/2023 - Objects JS https://youtu.be/uSeF_6g2L5Q
