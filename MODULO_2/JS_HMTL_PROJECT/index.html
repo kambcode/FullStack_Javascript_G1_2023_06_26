@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+    <header>
+
+    </header>
+    <body>
+        <!-- <style>
+            .row div {
+                height: 100px;
+                width: 100px;
+                background-color: blueviolet;
+                margin: 5px;
+                color: blueviolet;
+            }
+            .row {
+                display: flex;
+                flex-direction: row;
+            }
+        </style>
+        <h1 class="titulo" id="123">titulo JS</h1>
+        <h2>Parejas descubiertas: <span id="puntaje">0</span> de 8</h2>
+        <script type="text/javascript" src="./index.js"> </script>
+
+        <div class="row">
+            <div onclick="destape(1)" id="1">A</div> <div>B</div> <div>C</div> <div>D</div>
+        </div>
+        <div class="row">
+            <div>E</div> <div>F</div> <div>G</div> <div>H</div>
+        </div>
+        <div class="row">
+            <div onclick="destape(9)" id="9">A</div> <div>B</div> <div>C</div> <div>D</div>
+        </div>
+        <div class="row">
+            <div>E</div> <div>F</div> <div>G</div> <div>H</div>
+        </div> -->
+        <style>
+            .row {
+                display: flex;
+                flex-direction: row;
+            }
+            .row div {
+                margin: 5px;
+                height: 100px;
+                width: 300px;
+                background-color: black;
+                color: white;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+            #pregunta {
+                height: 100px;
+                width: 600px;
+                background-color: black;
+                color: white;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+            h1 {
+                color: "blue"
+            }
+        </style>
+        <h1>Premio Acomulado$<span id="premio">0</span></h1>
+        <div id="pregunta"></div>
+        <div class="row">
+            <div id="OA" onclick="seleccion('OA')"></div> <div id="OB"></div>
+        </div>
+        <div class="row">
+            <div id="OC" onclick="seleccion('OC')"></div> <div id="OD"></div>
+        </div>
+
+        <button onclick="siguiente()"> Ultima palabra</button>
+        <script type="text/javascript" src="./index.js"> </script>
+    </body>
+</html>

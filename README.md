@@ -32,3 +32,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
  - 2/08/2023 - Arrays JS https://youtu.be/OI5DC4MV3Mk
  - 4/08/2023 - Objects JS https://youtu.be/uSeF_6g2L5Q
  - 9/08/2023 - Arrays Methods https://youtu.be/30qsyLPJIvw
+ - 15/08/2023 - Project JS HTML https://youtu.be/5Vvk9-sCf5k
