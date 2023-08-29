@@ -1,9 +1,19 @@
 <!DOCTYPE html>
 <html>
     <header>
-
+        <style>
+            .raqueta {
+                height: 50px;
+                width: 300px;
+                background-color: brown;
+                border: solid;
+                position: relative;
+                top: 300px;
+                left: 300px;
+            }
+        </style>
     </header>
-    <body>
+    <body onkeydown="controlRaqueta(event)">
         <!-- <style>
             .row div {
                 height: 100px;
@@ -33,7 +43,7 @@
         <div class="row">
             <div>E</div> <div>F</div> <div>G</div> <div>H</div>
         </div> -->
-        <style>
+        <!-- <style>
             .row {
                 display: flex;
                 flex-direction: row;
@@ -70,7 +80,9 @@
             <div id="OC" onclick="seleccion('OC')"></div> <div id="OD"></div>
         </div>
 
-        <button onclick="siguiente()"> Ultima palabra</button>
+        <button onclick="siguiente()"> Ultima palabra</button>  -->
+        
+        <div class="raqueta"></div>
         <script type="text/javascript" src="./index.js"> </script>
     </body>
 </html>
